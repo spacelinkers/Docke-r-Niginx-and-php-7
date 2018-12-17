@@ -1,1 +1,1 @@
-# Docke-r-Niginx-and-php-7
+# Docker Niginx and php-7
